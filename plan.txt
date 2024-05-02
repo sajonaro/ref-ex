@@ -1,0 +1,5 @@
+Things to do:
+
+- create technical design ( goal)
+- create project plan ( steps, tickets)
+- implement (manage capacity, assign tasks, schedule meetings )
